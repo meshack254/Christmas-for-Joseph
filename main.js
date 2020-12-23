@@ -61,5 +61,5 @@ window.onload = function () {
         draw();
     });
 };
-alert("Happy Holidays Joseph and family!❄️")
+alert("Happy Holidays Paul and family!❄️")
 alert("Don't forget to tap Regenerate 😎")
